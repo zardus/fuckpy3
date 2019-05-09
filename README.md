@@ -1,6 +1,6 @@
 # fuckpy3
 
-[![Build Status](https://travis-ci.org/zardus/fuckpy3.svg?branch=master)](https://travis-ci.org/zardus/fuckpy3)
+[![Build Status](https://travis-ci.com/zardus/fuckpy3.svg?branch=master)](https://travis-ci.com/zardus/fuckpy3)
 
 In the vein of [fuckpep8](https://github.com/zardus/fuckpep8), a misguided attempt to make the world conform to my view of how things should work, rather than the actual reality.
 
