@@ -2,7 +2,7 @@
 
 In the vein of [fuckpep8](https://github.com/zardus/fuckpep8), a misguided attempt to make the world conform to my view of how things should work, rather than the actual reality.
 
-Makes this possible (thanks to [forbiddenfruit](https://github.com/clarete/forbiddenfruit):
+Makes this possible (thanks to [forbiddenfruit](https://github.com/clarete/forbiddenfruit)):
 
 ```
 >>> import fuckpy3
