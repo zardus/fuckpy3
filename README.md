@@ -35,3 +35,5 @@ Because it's the right thing to do.
 ## pypy?
 
 This is all based on the amazing forbiddenfruit, so pypy support will magically happen if forbiddenfruit gets pypy support.
+
+## thanks i hate it
